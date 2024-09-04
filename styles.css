@@ -1,0 +1,16 @@
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.button-container form {
+    margin-bottom: 10px;
+}
+.button-container input {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+}
+.sensor-data {
+    text-align: center;
+    margin-top: 20px;
+}
